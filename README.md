@@ -1,6 +1,7 @@
 # bs5-navwalker
 Bootstrap 5 WordPress navbar walker <br/>
 added support for level 3 items
+- Alex created the first nav-walker for Bootstrap 5<br/>
 - modified by Charly<br/>
 - modified by Manish
 <br/><br/><br/>
