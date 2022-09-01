@@ -12,10 +12,6 @@
         border-left-color: #cccccc;
     }
     ul.depth_1 a:after {
-        display: inline-flex;
-        margin-left: 0.355em;
-        vertical-align: 0.255em;
-        content: "";
         border: 0 !important;
     }
 }
