@@ -1,0 +1,21 @@
+@media all and (min-width: 992px) {
+    ul.depth_1 {
+        left: 100% !important;
+        top: 0% !important
+    }
+    ul.depth_0>.menu-item-has-children a:after {
+        display: inline-flex;
+        content: "";
+        border-color: transparent;
+        border-style: solid;
+        border-width: 5px 0 5px 5px;
+        border-left-color: #cccccc;
+    }
+    ul.depth_1 a:after {
+        display: inline-flex;
+        margin-left: 0.355em;
+        vertical-align: 0.255em;
+        content: "";
+        border: 0 !important;
+    }
+}
