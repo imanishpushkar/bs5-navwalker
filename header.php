@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
-
+<?php
+/*
+ * (c) 2022 Manish Pushkar bs5-navwalker 
+ * SPDX-License-Identifier: MIT
+ */
+?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">

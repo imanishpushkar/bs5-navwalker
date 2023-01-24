@@ -1,4 +1,8 @@
 <?php
+/*
+ * (c) 2022 Manish Pushkar bs5-navwalker 
+ * SPDX-License-Identifier: MIT
+ */
 // bootstrap 5 wp_nav_menu walker
 class bootstrap_5_wp_nav_menu_walker extends Walker_Nav_menu
 {
